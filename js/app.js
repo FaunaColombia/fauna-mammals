@@ -298,8 +298,13 @@ function closeModal(){
 // ---------------- MAPA ----------------
 function initMap(sp){
   if (!leafletMap){
-    leafletMap = L.map("modalMap", { zoomControl:true, attributionControl:false, scrollWheelZoom:false })
+    leafletMap = L.map("modalMap", { zoomControl:true, attributionControl:true, scrollWheelZoom:false })
       .setView([10, 0], 1);
+    L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+      attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
+      subdomains: "abcd",
+      maxZoom: 19
+    }).addTo(leafletMap);
   }
   setTimeout(() => leafletMap.invalidateSize(), 50);
 
