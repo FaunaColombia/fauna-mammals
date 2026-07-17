@@ -252,6 +252,9 @@ main{padding:28px 32px 60px;}
   padding:24px;
   z-index:100;
 }
+.modal-overlay[hidden]{
+  display:none;
+}
 .modal{
   background:var(--panel);
   border:1px solid var(--line-strong);
