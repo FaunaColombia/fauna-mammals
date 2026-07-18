@@ -28,7 +28,7 @@
   generica en vez de foto, sin que la pagina se rompa.
 */
 
-window.PHOTOS = {
+//window.PHOTOS = {
 
   "panthera-onca": {
     url: "https://upload.wikimedia.org/wikipedia/commons/1/11/Jaguar_%28Panthera_onca_palustris%29_male_Three_Brothers_River_2_%28cropped%29.jpg",
@@ -38,4 +38,18 @@ window.PHOTOS = {
   "sciurus-carolinensis": {
   url: "https://upload.wikimedia.org/wikipedia/commons/6/62/Sciurus_carolinensis.jpg",
   credit: "Image donated to public domain by Larry Sanger",
-},
+////},////\\\\\\\\\
+
+window.PHOTOS = {
+  "panthera-onca": {
+    url: "https://upload.wikimedia.org/wikipedia/commons/1/11/Jaguar_%28Panthera_onca_palustris%29_male_Three_Brothers_River_2_%28cropped%29.jpg",
+    credit: "Wikimedia Commons"
+  },
+
+  "sciurus-carolinensis": {
+    url: "https://upload.wikimedia.org/wikipedia/commons/6/62/Sciurus_carolinensis.jpg",
+    credit: "Larry Sanger / Wikimedia Commons"
+  }
+};
+
+  
