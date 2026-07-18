@@ -32,7 +32,7 @@ window.PHOTOS = {
 
   // ---- EJEMPLO (puedes borrar este bloque cuando agregues los tuyos) ----
   "panthera-onca": {
-    url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Jaguar_%28Panthera_onca_palustris%29_male_Piquiri_River_2.JPG/640px-Jaguar_%28Panthera_onca_palustris%29_male_Piquiri_River_2.JPG",
+    url: "https://www.inaturalist.org/taxa/41970-Panthera-onca/browse_photos?photo_license=cc0",
     credit: "Foto: Charles J. Sharp / Wikimedia Commons",
     creditUrl: "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Piquiri_River_2.JPG"
   },
