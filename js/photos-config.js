@@ -37,9 +37,9 @@ window.PHOTOS = {
   },
 
   // Agrega tus especies aqui abajo, siguiendo el mismo formato:
-  // "id-de-la-especie": {
-  //   url: "",
-  //   credit: "",
+  "Sciurus carolinensis": {
+  url: "https://upload.wikimedia.org/wikipedia/commons/6/62/Sciurus_carolinensis.jpg",
+  credit: "Image donated to public domain by Larry Sanger",
   //   creditUrl: ""
   // },
 
