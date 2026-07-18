@@ -31,7 +31,7 @@
 window.PHOTOS = {
 
   "panthera-onca": {
-    url: "https://www.inaturalist.org/observations/195022986",
+    url: "https://upload.wikimedia.org/wikipedia/commons/1/11/Jaguar_%28Panthera_onca_palustris%29_male_Three_Brothers_River_2_%28cropped%29.jpg",
     credit:,
     creditUrl: "https://www.inaturalist.org/observations/195022986"
   },
