@@ -31,8 +31,8 @@
 window.PHOTOS = {
 
   "panthera-onca": {
-    url: "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Rio_Negro_2.JPG",
-    credit: "Foto: Charles J. Sharp / Wikimedia Commons",
+    url: "https://www.inaturalist.org/observations/195022986",
+    credit:
     creditUrl: "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Rio_Negro_2.JPG"
   },
 
