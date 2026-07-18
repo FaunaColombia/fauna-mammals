@@ -30,9 +30,8 @@
 
 window.PHOTOS = {
 
-  // ---- EJEMPLO (puedes borrar este bloque cuando agregues los tuyos) ----
   "panthera-onca": {
-    url: "https://www.inaturalist.org/taxa/41970-Panthera-onca/browse_photos?photo_license=cc0",
+    url: "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Rio_Negro_2.JPG",
     credit: "Foto: Charles J. Sharp / Wikimedia Commons",
     creditUrl: "https://www.inaturalist.org/taxa/41970-Panthera-onca/browse_photos?photo_license=cc0"
   },
