@@ -36,11 +36,10 @@ window.PHOTOS = {
     creditUrl: "https://www.inaturalist.org/observations/195022986"
   },
 
-  // Agrega tus especies aqui abajo, siguiendo el mismo formato:
-  "Sciurus carolinensis": {
+  "sciurus-carolinensis": {
   url: "https://upload.wikimedia.org/wikipedia/commons/6/62/Sciurus_carolinensis.jpg",
   credit: "Image donated to public domain by Larry Sanger",
-  //   creditUrl: ""
+  creditUrl: ""
   // },
 
 };
