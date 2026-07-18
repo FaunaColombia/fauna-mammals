@@ -34,7 +34,7 @@ window.PHOTOS = {
   "panthera-onca": {
     url: "https://www.inaturalist.org/taxa/41970-Panthera-onca/browse_photos?photo_license=cc0",
     credit: "Foto: Charles J. Sharp / Wikimedia Commons",
-    creditUrl: "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Piquiri_River_2.JPG"
+    creditUrl: "https://www.inaturalist.org/taxa/41970-Panthera-onca/browse_photos?photo_license=cc0"
   },
 
   // Agrega tus especies aqui abajo, siguiendo el mismo formato:
