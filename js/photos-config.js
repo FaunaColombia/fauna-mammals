@@ -54,7 +54,6 @@ window.PHOTOS = {
  "sciurus-niger": {
     url: "https://upload.wikimedia.org/wikipedia/commons/b/be/Sciurus_niger_Ronar_6.jpg",
     credit: "Ronar, Public domain, via Wikimedia Commons"
-   
    }  
 };
 
