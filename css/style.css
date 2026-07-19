@@ -26,6 +26,12 @@
   --font-mono:'JetBrains Mono', monospace;
 }
 
+/* Reglas generales */
+[hidden] {
+  display: none !important;
+}
+
+/* resto de tu CSS... */
 *{box-sizing:border-box;}
 html{scroll-behavior:smooth;}
 body{
